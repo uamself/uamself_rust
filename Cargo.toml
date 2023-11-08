@@ -5,4 +5,6 @@ resolver = "2" # 不明白这个的作用
 members = [
     "crates/ basis/hello_world_01",
     "crates/ basis/cargo_02",
+    "crates/ basis/specification_03",
+    "crates/ basis/variables_04",
 ]
