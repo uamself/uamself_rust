@@ -1,8 +1,8 @@
-[package]
-name = "uamself_rust"
-version = "0.1.0"
-edition = "2021"
+# 最外层的项目,只有工作空间没有package, 这里可以通过workspace引入其他的package
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+[workspace]
+resolver = "2" # 不明白这个的作用
+members = [
+    "crates/ basis/hello_world_01",
+    "crates/ basis/cargo_02",
+]
