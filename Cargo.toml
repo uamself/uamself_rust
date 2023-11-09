@@ -7,4 +7,5 @@ members = [
     "crates/ basis/cargo_02",
     "crates/ basis/specification_03",
     "crates/ basis/variables_04",
+    "crates/ basis/data_type_05",
 ]
