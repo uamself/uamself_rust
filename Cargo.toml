@@ -8,4 +8,5 @@ members = [
     "crates/ basis/specification_03",
     "crates/ basis/variables_04",
     "crates/ basis/data_type_05",
+    "crates/ basis/literals_operators_06",
 ]
