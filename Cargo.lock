@@ -7,6 +7,10 @@ name = "cargo_02"
 version = "0.1.0"
 
 [[package]]
+name = "composite_data_type_09"
+version = "0.1.0"
+
+[[package]]
 name = "data_type_05"
 version = "0.1.0"
 
@@ -32,4 +36,8 @@ version = "0.1.0"
 
 [[package]]
 name = "variables_04"
+version = "0.1.0"
+
+[[package]]
+name = "vector_10"
 version = "0.1.0"
