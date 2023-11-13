@@ -15,6 +15,10 @@ name = "hello_world_01"
 version = "0.1.0"
 
 [[package]]
+name = "input_output_08"
+version = "0.1.0"
+
+[[package]]
 name = "literals_operators_06"
 version = "0.1.0"
 

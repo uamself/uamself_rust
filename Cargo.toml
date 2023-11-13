@@ -10,4 +10,5 @@ members = [
     "crates/basis/data_type_05",
     "crates/basis/literals_operators_06",
     "crates/basis/type_cast_07",
+    "crates/basis/input_output_08",
 ]
