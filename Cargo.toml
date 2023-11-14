@@ -13,4 +13,6 @@ members = [
     "crates/basis/input_output_08",
     "crates/basis/composite_data_type_09",
     "crates/basis/vector_10",
+    "crates/basis/slice_11",
+    "crates/basis/string_12",
 ]

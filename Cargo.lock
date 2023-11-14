@@ -27,7 +27,15 @@ name = "literals_operators_06"
 version = "0.1.0"
 
 [[package]]
+name = "slice_11"
+version = "0.1.0"
+
+[[package]]
 name = "specification_03"
+version = "0.1.0"
+
+[[package]]
+name = "string_12"
 version = "0.1.0"
 
 [[package]]
