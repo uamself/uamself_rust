@@ -15,4 +15,5 @@ members = [
     "crates/basis/vector_10",
     "crates/basis/slice_11",
     "crates/basis/string_12",
+    "crates/basis/string_method_13",
 ]
