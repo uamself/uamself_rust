@@ -16,4 +16,5 @@ members = [
     "crates/basis/slice_11",
     "crates/basis/string_12",
     "crates/basis/string_method_13",
+    "crates/basis/process_control_14",
 ]
