@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/crates/basis/string_12/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/basis/vector_10/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/basis/string_method_13/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/basis/function_15/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/basis/process_control_14/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
