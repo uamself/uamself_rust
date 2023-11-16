@@ -19,4 +19,5 @@ members = [
     "crates/basis/process_control_14",
     "crates/basis/function_15",
     "crates/basis/iterator_16",
+    "crates/basis/struct_17",
 ]
