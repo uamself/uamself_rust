@@ -221,7 +221,7 @@ let hello_literal = "world";
 
 
 
-* ![avatar](../pictures/string_1.png)
+* ![avatar](../../pictures/string_1.png)
 
 
 `hello_string`是一个可变长度的字符串，它在内存中的结果与向量类似，真正的字符串则存放在堆上。在堆上给*String*分配一个可伸缩缓冲区，因此可以按需来调整其大小。

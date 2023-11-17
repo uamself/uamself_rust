@@ -21,4 +21,6 @@ members = [
     "crates/basis/iterator_16",
     "crates/basis/struct_17",
     "crates/basis/enum_18",
+
+    "crates/intermediate/generic_01",
 ]

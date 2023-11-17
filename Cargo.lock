@@ -23,6 +23,10 @@ name = "fuction_15"
 version = "0.1.0"
 
 [[package]]
+name = "generic_01"
+version = "0.1.0"
+
+[[package]]
 name = "hello_world_01"
 version = "0.1.0"
 
