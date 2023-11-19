@@ -43,6 +43,10 @@ name = "literals_operators_06"
 version = "0.1.0"
 
 [[package]]
+name = "memory_03"
+version = "0.1.0"
+
+[[package]]
 name = "process_control_14"
 version = "0.1.0"
 
