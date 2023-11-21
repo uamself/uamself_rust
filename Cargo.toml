@@ -27,4 +27,5 @@ members = [
     "crates/intermediate/memory_03",
     "crates/intermediate/ownership_04",
     "crates/intermediate/reference_borrow_05",
+    "crates/intermediate/lifetime_06",
 ]

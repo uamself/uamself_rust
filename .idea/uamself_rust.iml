@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/crates/intermediate/memory_03/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/intermediate/trait_02/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/intermediate/ownership_04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/intermediate/lifetime_06/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/intermediate/reference_borrow_05/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>

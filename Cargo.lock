@@ -39,6 +39,10 @@ name = "iterator_16"
 version = "0.1.0"
 
 [[package]]
+name = "lifetime_06"
+version = "0.1.0"
+
+[[package]]
 name = "literals_operators_06"
 version = "0.1.0"
 
